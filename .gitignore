@@ -1,0 +1,4 @@
+*.o
+DotProduct
+TestProduct
+perf.data
